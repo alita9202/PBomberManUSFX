@@ -11,5 +11,6 @@ public:
 
 	int getMuroDestructible() { return muroDestructible; }
 	void setMuroDestructible (int _muroDestructible) { muroDestructible = _muroDestructible; }
+
 };
 
